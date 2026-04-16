@@ -1,4 +1,4 @@
-# shobhit-systems
+# Shobhit Systems
 
 > Production-ready GCP infrastructure modules for startups — opinionated, modular, and built to scale.
 
