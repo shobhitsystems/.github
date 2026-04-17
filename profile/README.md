@@ -19,7 +19,7 @@ No piecing together tutorials. No months lost on cloud setup. Just a solid, prod
 
 ## Demo modules
 
-These repositories are the Terraform modules we use to build GCP infrastructure for our clients. They are open-sourced so the community can benefit from the same patterns.
+These repositories are demo Terraform modules that showcase the kind of GCP infrastructure and CI/CD pipelines we build for our clients. They illustrate our approach — modular, secure, and startup-friendly — and are free to explore and learn from.
 
 ### 🏗️ [gcp-startup-stack](https://github.com/shobhit-systems/gcp-startup-stack)
 The core infrastructure stack for startups launching on GCP. Provisions Cloud Run, Cloud SQL, Artifact Registry, VPC networking, and IAM — all wired up and production-ready from day one.
@@ -52,7 +52,7 @@ gcp-startup-stack          →   Cloud Run, Cloud SQL, VPC built on top of those
 gcp-artifact-registry-cicd →   automated image builds & pushes on every code push
 ```
 
-Together they form a complete, production-grade GCP setup for any startup — or adopt each module independently as needed.
+These demos show how a complete, production-grade GCP setup fits together end to end — the same patterns we apply when building infrastructure for our clients.
 
 ---
 
@@ -60,7 +60,7 @@ Together they form a complete, production-grade GCP setup for any startup — or
 
 If you're a startup that needs a GCP infrastructure partner, we'd love to help. We handle the full setup — infrastructure, CI/CD, security, and documentation — so your team hits the ground running.
 
-📬 Reach out to via [Chat](https://wa.me/917045529476).
+📬 Reach out via [Chat](https://wa.me/917045529476) to start a conversation.
 
 ---
 
