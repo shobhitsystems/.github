@@ -60,7 +60,7 @@ These demos show how a complete, production-grade GCP setup fits together end to
 
 If you're a startup that needs a GCP infrastructure partner, we'd love to help. We handle the full setup — infrastructure, CI/CD, security, and documentation — so your team hits the ground running.
 
-📬 Reach out and book free Infra audit via [Contact Form](https://shobhitsystems.com/#contact).
+📬 Book free Infra audit via [Contact Form](https://shobhitsystems.com/#contact).
 
 ---
 
