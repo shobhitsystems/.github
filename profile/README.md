@@ -17,7 +17,7 @@ No piecing together tutorials. No months lost on cloud setup. Just a solid, prod
 
 ---
 
-## Open-source modules
+## Demo modules
 
 These repositories are the Terraform modules we use to build GCP infrastructure for our clients. They are open-sourced so the community can benefit from the same patterns.
 
