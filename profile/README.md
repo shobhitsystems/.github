@@ -10,7 +10,7 @@ No piecing together tutorials. No months lost on cloud setup. Just a solid, prod
 
 🌍  Serving startups in US 🇺🇸  UK 🇬🇧  India 🇮🇳
 
-→ Free 30-min infra audit: shobhitsystems.com
+→ Free 30-min infra audit: [shobhitsystems.com](https://shobhitsystems.com/#contact)
 
 ---
 
