@@ -4,7 +4,13 @@
 
 We are a GCP infrastructure partner for early-stage startups. We design, build, and hand over complete cloud infrastructure and CI/CD pipelines on Google Cloud Platform, so your engineering team can focus entirely on the product.
 
+⚡  Terraform • GCP • CI/CD • GitOps • Workload Identity • Cloud Run • GKE
+
 No piecing together tutorials. No months lost on cloud setup. Just a solid, production-grade foundation — built for you.
+
+🌍  Serving startups in US 🇺🇸  UK 🇬🇧  India 🇮🇳
+
+→ Free 30-min infra audit: shobhitsystems.com
 
 ---
 
