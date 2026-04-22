@@ -8,7 +8,7 @@ We are a GCP infrastructure partner for early-stage startups. We design, build, 
 
 No piecing together tutorials. No months lost on cloud setup. Just a solid, production-grade foundation — built for you.
 
-🌍  Serving startups in US 🇺🇸  UK 🇬🇧  India 🇮🇳
+🌍  Serving startups globally.
 
 → Free 30-min infra audit: [shobhitsystems.com](https://shobhitsystems.com/#contact)
 
